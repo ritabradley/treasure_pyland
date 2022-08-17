@@ -125,7 +125,7 @@ I hope you find the treasure!
 [//]: # ()
 [//]: # (See the [open issues]&#40;https://github.com/ritabradley/treasure_pyland/issues&#41; for a full list of proposed features &#40;and known issues&#41;.)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[//]: # (<p align="right">&#40;<a href="#readme-top">back to top</a>&#41;</p>)
 
 
 
@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rita Bradley - [@twitter_handle](https://twitter.com/ritabradley_dev) - rita@ritabradley.dev
+Rita Bradley - [@ritabradley_dev](https://twitter.com/ritabradley_dev) - rita@ritabradley.dev
 
 Project Link: [https://github.com/ritabradley/treasure_pyland](https://github.com/ritabradley/treasure_pyland)
 
